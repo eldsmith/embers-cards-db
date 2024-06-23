@@ -1,0 +1,48 @@
+name: King Tiger Tank
+type: special
+blocks:
+  - type: none
+    id: info
+    value: "0"
+    order: 0
+    description: <cap>When played place <bee>King Tiger Tank</bee> in the same
+      region as <beg>Company of Heroes 2</beg>.
+    showIcon: none
+    showFull: "true"
+  - type: tower
+    id: tower
+    value: "0"
+    order: 1
+    description: >-
+      <bee>King Tiger Tank</bee> <be>blocks</be> the area it is currently in. It
+      costs <be>15 coins</be> to move it to an adjacent area and only the
+      <be>owner</be> may move the tank.<br><br>
+
+      <be>Shoot: </be> The owner may shoot at an adjacent area for <be>20
+      coins</be>. All towers in that area become inactive until they are
+      repaired by paying <be>30 coins</be> and drawing <bec>1 Curse
+      Card</bec>.<br>
+
+      <br>The tank starts with <be>100 health</be>. Players may deal <be>x</be>
+      damage to the tank if they are in the same area or adjacent, where
+      <be>x</be> is the amount of coins they spend.
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    id: ruined
+    value: "0"
+    order: 2
+    description: The owner of <bee>King Tiger Tank</bee> has permanent <be>2
+      corruption</be> in this area.
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 5f17f8a8-5e50-4cfd-a249-7830d6c76fb1
+fileName: King Tiger Tank

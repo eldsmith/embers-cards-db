@@ -1,0 +1,22 @@
+id: 4b597a52-1952-45f4-89f0-06d4edd7bbf3
+name: You call that a boat
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Make a boat out of anything available to you, you must convince
+      the other players why it's a boat and demonstrate that it floats.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094861/You%20call%20that%20a%20boat.png
+fileName: You call that a boat

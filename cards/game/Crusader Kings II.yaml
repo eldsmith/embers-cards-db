@@ -1,0 +1,70 @@
+name: Crusader Kings II
+type: game
+blocks:
+  - type: none
+    id: Info
+    value: "0"
+    order: 0
+    description: <cap>No DLC | Start as duke | Saving allowed
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: start
+    value: "1"
+    order: 1
+    description: Hold 4 counties
+    title: Oink
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: "8"
+    value: "2"
+    order: 2
+    description: Hold 8 counties
+    title: Countyhog
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: "10"
+    value: "2"
+    order: 3
+    description: Hold 10 counties
+    title: Greedy Pig
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: imp
+    value: "2"
+    order: 4
+    description: Falsify a casus belli, use it and gain control of the title
+    title: Deceptive Imperial
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: money
+    value: "15"
+    order: 5
+    description: Have 250 coins
+    title: Raid the Treasury
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: prestige
+    value: "2"
+    order: 6
+    description: Have the most prestige
+    title: Prestigious King
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 244d95f5-6ea1-4d00-b70c-34f6dccc0135
+fileName: Crusader Kings II

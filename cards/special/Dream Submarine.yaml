@@ -1,0 +1,53 @@
+name: Dream Submarine
+type: special
+blocks:
+  - type: none
+    id: sub
+    value: "0"
+    order: 0
+    description: <cap><be></be> Put the <bee>Dream Submarine</bee> token anywhere on
+      the map.
+    title: ""
+    showFull: "true"
+    showIcon: none
+  - type: tower
+    id: sub
+    value: "0"
+    order: 1
+    description: >
+      The owner of the <bee>Dream Submarine</bee> has <beb>3 points</beb>
+      wherever the submarine is currently docked.<br><br>
+
+
+      <be>Move:</be> Owner may move the <bee>Dream Submarine</bee> to any
+      location on the map. Pay <be>5 coins</be> for each area moved through.
+      <bee>Dream Submarine</bee> bypasses <be>blocked</be> areas.<br><br>
+
+
+      <be>Enter (<beg>Barotrauma</beg>)</be>: Beat the first two biomes to
+      <bee>Ruin</bee> the submarine. If the submarine moves you will move with
+      it. <br><br>
+
+
+      <be>Ruin:</be> Every other non-owner player draws <bec>1 curse card</bec>
+    title: Dream Submarine
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    id: ruined
+    value: "0"
+    order: 2
+    description: The owner has <beb>1 point</beb> here.
+    title: Beached Submarine
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: db41a511-812d-48b9-8695-275927d58ac9
+fileName: Dream Submarine

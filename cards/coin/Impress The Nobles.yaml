@@ -1,0 +1,21 @@
+name: Impress The Nobles
+type: coin
+blocks:
+  - type: coin
+    id: new
+    value: "10"
+    order: 0
+    description: <bf>Impress all <beb>100 nobles</beb> in the fencing minigame in
+      <beg>Final Fantasy IX</beg>.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 71b6adb5-568f-4db8-a733-8ad71d45f3d3
+fileName: Impress The Nobles

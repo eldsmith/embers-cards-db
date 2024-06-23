@@ -1,0 +1,56 @@
+name: Dark Souls 3 Rando
+type: game
+blocks:
+  - type: coin
+    id: bosscoin
+    value: "5"
+    order: 0
+    description: Beat a new boss.
+    title: Loot the Losers
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: info
+    value: "1"
+    order: 1
+    description: Slay a Lord of Cinder
+    title: Slay the Lords
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: bosses
+    value: "2"
+    order: 2
+    description: Kill the most bosses. (Minimum 3 bosses)
+    title: Bossabossi
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: weapon
+    value: "1"
+    order: 3
+    description: Get a weapon to +7.
+    title: Andre's Apprentice
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: dancers
+    value: "2"
+    order: 4
+    description: "Kill <beb>Dancer of the Boreal Valley</beb>. <br><br>Effect: Put
+      <bee>Dancer's Tower</bee> into this area."
+    title: Lord of The Dancer
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 37671c47-2267-48d0-a1a4-dda232eade15
+fileName: Dark Souls 3 Rando

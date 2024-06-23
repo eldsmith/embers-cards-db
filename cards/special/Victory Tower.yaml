@@ -1,0 +1,45 @@
+name: Victory Tower
+type: special
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: >-
+      <cap><be>Toughness:</be> 3<br><br>
+
+      <be><sf>Before this tower is in a players hand</be>: whenever a battle is
+      drawn, roll a <be>d20</be>, if the result is <be>14 or higher</be> the
+      <bee>Victory Tower</bee> becomes a part of the <be>prize pool</be>
+    showIcon: none
+    showFull: "true"
+  - type: tower
+    value: "0"
+    order: 1
+    description: >-
+      This tower adds 2 points of <beb>dominion</beb> to this area for every
+      <be>battle</be> won by the player.<br><br>
+
+
+      <be>Enter:</be> Draw a random <be>battle card</be> from the discard, put
+      it into play and to the <be>prize pool</be> add "<i>The winner may either
+      remove <be>1d2</be> toughness or add <be>1d3</be> toughness, to the
+      <bee>Victory Tower</bee></i>"<br><br>
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    value: "0"
+    order: 2
+    description: This tower adds 1 point of <beb>dominion</beb> to this area for
+      every <be>battle</be> won by the player
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 18a63df5-b3f8-4b30-a066-db7eb37f2ccf
+fileName: Victory Tower

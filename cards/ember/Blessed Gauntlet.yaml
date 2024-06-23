@@ -1,0 +1,26 @@
+name: Blessed Gauntlet
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><be>Equipment</be> | <be>Toughness:</be> 3
+    showIcon: none
+    showFull: "true"
+  - type: equip
+    value: "0"
+    order: 1
+    description: +5 on all <be>Saving Throws</be>, whenever you make a saving throw
+      lose <be>1 toughness</be>
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 6fe93bf0-b848-4ad2-9cf4-7e2bc455b8d5
+fileName: Blessed Gauntlet

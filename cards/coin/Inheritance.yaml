@@ -1,0 +1,22 @@
+id: b59f39ee-dae0-472b-a870-86e50e380aaf
+name: Inheritance
+type: coin
+blocks:
+  - type: coin
+    value: "20"
+    order: 0
+    description: A distant lonely relative has passed away and left all this sweet
+      gold to you! However he decreed that you must use it to make friends so
+      that you do not end up like him. <be>Give half of the coins to any player
+      or suffer a terrible <bec>CURSE</bec></be>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094646/Inheritance.png
+fileName: Inheritance

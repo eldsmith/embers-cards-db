@@ -1,0 +1,39 @@
+name: Tricky Towers BO5
+type: dungeon
+blocks:
+  - type: challenge
+    value: "1"
+    order: 0
+    description: >-
+      You may challenge another player in the same area or adjacent, if they
+      refuse they must make a <be>DC 14</be><bec> Curse saving
+      throw</bec><br><br>
+
+
+      <be>BO5</be>, loser of match chooses next match. You may also bet up to
+      <be>10 coins</be>
+
+
+      <br><br>
+
+      <be>Chain</be> <ber>Tricky Towers</ber>: This challenge may be repeated
+    title: Tricky tricky
+    showIcon: all
+    showFull: "false"
+  - type: none
+    value: "0"
+    order: 1
+    description: "<cap><bec>Curse saving throw</bec>: If you fail a curse saving
+      throw you must draw a <bec>Curse Card</bec>"
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 58dc1e59-5153-43e9-89ba-323c4dc13594
+fileName: Tricky Towers BO5

@@ -1,0 +1,55 @@
+name: 20 Minutes Till Dawn
+type: game
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <cap>Everyone must start this game on a fresh save.
+    bottomType: none
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: survive
+    value: "2"
+    order: 1
+    description: Survive one night in the game.
+    title: Survive the Night
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: endless
+    value: "2"
+    order: 2
+    description: Have the highest score in endless.
+    title: Endless Nightking
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: darkness
+    value: "1"
+    order: 3
+    description: Reach a Darkness divisible by 3. (3, 6, 9, 12, 15)
+    bottomType: repeat
+    title: Into the Darkness
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: darkness2
+    value: "2"
+    order: 4
+    description: Reach Darkness 15
+    title: Hello Darkness
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 1c2aa135-6724-4880-8887-654cf164e270
+fileName: 20 Minutes Till Dawn

@@ -1,0 +1,23 @@
+name: Mittened!
+type: curse
+blocks:
+  - type: none
+    id: mittens
+    value: ""
+    order: 0
+    description: <bf>Oh no, you've been licked by the mitten kitten *meow* UwU ! You
+      must wear his mittens while playing for the next 1d6 x 15 minutes *sexy
+      snickering*<br><br>
+    title: CURSED!
+    showFull: "true"
+    showIcon: none
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 0f6f7ae1-4b79-436e-bccf-8ad0c34ba2bc
+fileName: Mittened!

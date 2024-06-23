@@ -1,0 +1,22 @@
+name: Build A Retro Hunt
+type: ember
+blocks:
+  - type: ember
+    id: "1"
+    value: "0"
+    order: 0
+    description: <bf>Go on a retro hunt. The maximum allowed achievements are
+      <be>10</be> instead of <be>5</be>. In addition you may select whatever
+      game on the sheet that you desire.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 05bfbac2-18cf-48bd-8f2f-0fd9c771ebcf
+fileName: Build A Retro Hunt

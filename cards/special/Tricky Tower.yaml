@@ -1,0 +1,36 @@
+name: Tricky Tower
+type: special
+blocks:
+  - type: tower
+    value: "0"
+    order: 0
+    description: >-
+      <be>When played</be>: Start assembling a tower of cans by creating a base,
+      the rules of this towers base and assembly is a group
+      decision.<br><br>Whenever anyone enters this area, he must add a can to
+      the tower.<br><br>
+
+      <be>If the tower collapses</be>: The player who collapsed the tower draws
+      <bec>3 Curse Cards</bec> and the tower is <be>ruined</be>
+    title: ""
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    value: "0"
+    order: 1
+    description: <be>Enter ( <beg>Tricky Towers</beg> ):</be> Play <beb>Survival
+      Endless</beb> and beat the current high score (it starts at 10), <be>Gain
+      1 coin for every score above the high score (max 30)</be>.<br><br>The
+      person who currently has the high score may not enter
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 5fed1afa-e6e9-4b76-84b4-de1c6b60bbd4
+fileName: Tricky Tower

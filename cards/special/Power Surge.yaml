@@ -1,0 +1,20 @@
+id: f4cf8a81-4959-4142-8d00-3f31c32f5b6c
+name: Power Surge
+type: special
+blocks:
+  - type: none
+    id: power
+    value: "0"
+    order: 0
+    description: <bf>Gain <beb>1 dominion</beb> in your current area.
+    showIcon: none
+    showFull: "true"
+image:
+  height: "75"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: "43"
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094424/Power%20Surge.png
+fileName: Power Surge

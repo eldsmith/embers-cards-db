@@ -1,0 +1,24 @@
+id: 43e6a06f-c95d-420c-b6f3-e1396a127160
+name: Howdy Neighbour
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: "Go  knock on another cabin's door and ask the people there for a
+      fair, group decided item. You may not expose that this is part of a
+      game.<br><br>If you manage to leave the cabin with anything at all: Heal
+      1"
+    title: BLURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094811/Howdy%20Neighbour.png
+fileName: Howdy Neighbour

@@ -1,0 +1,21 @@
+name: Upside Down
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Play with your monitor upside down for <be>1d4 x 10 minutes</be>.</bf>
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ec3376ca-c6e1-4a7f-b955-795f6b56e066
+fileName: Upside Down

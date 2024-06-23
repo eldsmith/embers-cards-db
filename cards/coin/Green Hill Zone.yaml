@@ -1,0 +1,25 @@
+id: 01435edd-3b7d-4036-9410-2cb649012f8f
+name: Green Hill Zone
+type: coin
+blocks:
+  - type: coin
+    id: new
+    value: "10"
+    order: 0
+    description: >-
+      Beat the first boss in the original <be>Sonic the Hedgehog</be>.<br><br>
+
+
+      <be>Upgrade:</be> Beat the second boss as well and gain an extra <be>10
+      coins</be>.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094723/Green%20Hill%20Zone.png
+fileName: Green Hill Zone

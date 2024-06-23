@@ -1,0 +1,20 @@
+id: 6ead0d14-28a9-47b0-9f9f-20e1bba74800
+name: Cursed Eye
+type: ember
+blocks:
+  - type: challenge
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: Look at the top three cards of the Curse deck and arrange them in
+      any order. You may draw <bec>1 Curse Card</bec>
+image:
+  height: "80"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: "45"
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095260/Cursed%20Eye.png
+fileName: Cursed Eye

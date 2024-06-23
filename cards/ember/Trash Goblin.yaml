@@ -1,0 +1,26 @@
+name: Trash Goblin
+type: ember
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: >-
+      Put <be>1</be><bee> Ember Card</bee> from the discard pile into your hand.
+
+      <br><br>
+
+      <be>Corrupt 3:</be> Take <be>1</be> additional <bee>Ember Card</bee> from
+      the discard pile and put it into your hand.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 8d333b18-ba49-43c8-b02a-a8f8d3fa5b20
+fileName: Trash Goblin

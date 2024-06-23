@@ -1,0 +1,19 @@
+name: Bulldozer
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <bf>Destroy a dungeon room that is in an area without any other players
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 65033378-7dff-486c-ac62-7f9a56c7738d
+fileName: Bulldozer

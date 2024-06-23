@@ -1,0 +1,29 @@
+name: The Mini Train
+type: special
+blocks:
+  - type: tower
+    id: train
+    value: "0"
+    order: 0
+    description: >-
+      <be>When played:</be> Draw <beg> 3 game cards</beg> and select 1 of those
+      cards to be in <bee>The Mini Train</bee>.<br><br>
+
+
+      If a player is in the same area as <bee>The Mini Train </bee>they may move
+      it for <be>5 coins</be> per area moved. Wherever <bee>The Mini Train</bee>
+      is currently stopped it works like an extra game slot in the area.
+      <br><br><bee>The Mini Train</bee> cannot move through a <be>blocked</be>
+      area and it cannot move out of a <be>blocked</be> area.
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a785783e-8a86-48ad-9b9a-b8a2ff63045d
+fileName: The Mini Train

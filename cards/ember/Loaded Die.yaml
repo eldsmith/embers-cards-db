@@ -1,0 +1,27 @@
+name: Loaded Die
+type: ember
+blocks:
+  - type: ember
+    id: new
+    value: "0"
+    order: 0
+    description: >-
+      <bf>
+
+      After you roll a die you may play this card to change the results to
+      whatever you want.
+
+
+      </bf>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 6532a7a5-8316-425c-914f-59ffadebc7e2
+fileName: Loaded Die

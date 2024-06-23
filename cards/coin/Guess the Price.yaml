@@ -1,0 +1,20 @@
+name: Guess the Price
+type: coin
+blocks:
+  - type: coin
+    value: "10"
+    order: 0
+    description: Using <be>guesstheprice.net</be>, reach a score of <be>10,000</be>.
+      You have two tries.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 16f00365-abe4-4523-9a7e-42022ee67114
+fileName: Guess the Price

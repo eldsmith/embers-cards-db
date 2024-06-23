@@ -1,0 +1,25 @@
+id: 5c63457d-655d-40a5-87a3-eef15b3c6242
+name: Cursed Gambler
+type: ember
+blocks:
+  - type: ember
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: >-
+      Look at the top 3 cards of the Curse Deck and put them back. You and two
+      other players of your choice must then draw <bec>1 Curse Card</bec>. The
+      draw order is decided by the other two players, but you are allowed to
+      take part in the discussion <br><br>
+
+      Gain 20 coins
+image:
+  height: ""
+  backgroundSize: custom
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095269/Cursed%20Gambler.png
+fileName: Cursed Gambler

@@ -1,0 +1,32 @@
+id: ea6666d2-11cd-4149-804c-4be30262728d
+name: CHALLENGES II
+type: info
+blocks:
+  - type: challenge
+    id: new
+    value: "0"
+    order: 0
+    description: The repeat sign in the bottom right indicates a challenge that can
+      be claimed over and over again, usually by any player.
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "0"
+    order: 1
+    description: Person icons in the bottom right indicate how many people can claim
+      a challenge ex. in this one two people can claim it. If there is no symbol
+      it automatically means only one person can claim it.
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: CHALLENGES II

@@ -1,0 +1,20 @@
+id: 7b86c17f-c2fb-47c6-8c7a-ded13bee1d6d
+name: Glory to Dust
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: Trade in all your <beb>dominion</beb> in one area. <br>Each point
+      of <beb>dominion</beb> grants you <be>7 coins</beb>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095279/Glory%20to%20Dust.png
+fileName: Glory to Dust

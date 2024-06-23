@@ -1,0 +1,22 @@
+name: Risky Play
+type: ember
+blocks:
+  - type: none
+    id: d
+    value: "0"
+    order: 0
+    description: Draw a <be>Coin Card</be>.<br><br>The coins received for completing
+      the challenge are <be>doubled</be>. If you veto the challenge you must
+      draw <be>2 </be><bec>Curse Cards</bec> instead of only <be>1</be>.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ecdace05-9f10-4460-8c98-ec305c6e3d4f
+fileName: Risky Play

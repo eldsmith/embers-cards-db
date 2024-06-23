@@ -1,0 +1,21 @@
+id: f7b44da2-a829-4301-84e2-a778700470e2
+name: House of Cards
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Make a 3 level pyramid with playing cards. You have 45 minutes
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: "70"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094804/House%20of%20Cards.png
+fileName: House of Cards

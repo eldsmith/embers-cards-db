@@ -1,0 +1,23 @@
+name: KEYWORDS
+type: info
+blocks:
+  - type: info
+    id: new
+    value: ""
+    order: 0
+    description: When an area is blocked it means that cards can't be played there;
+      challenges can't be completed; and you must pay 10  extra coins to pass
+      through the area
+    title: BLOCK
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 2653d808-fec8-48a7-97be-dd76e9129eb1
+fileName: KEYWORDS

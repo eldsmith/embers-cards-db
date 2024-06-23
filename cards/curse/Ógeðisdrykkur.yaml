@@ -1,0 +1,26 @@
+name: Ógeðisdrykkur
+type: curse
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: >-
+      Everyone finds 1 edible thing to mix into a drink, the drink must be
+      disgusting otherwise you must redraw. You must drink a medium glass of
+      this drink.<br><br>
+
+
+      If you successfully drink it: <be>Heal 1</be>
+    title: BLURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: f0bed5a4-91b0-422e-af55-bde0253ad2c9
+fileName: Ógeðisdrykkur

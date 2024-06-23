@@ -1,0 +1,39 @@
+id: 5b2c549c-90c2-46cb-abbd-eb0aff64bb50
+name: Yuris War Room
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <beg>Red Alert 2</beg>
+    showIcon: none
+    showFull: "true"
+  - type: coin
+    value: "15"
+    order: 1
+    description: >-
+      Challenge other players to a game, any player may join. If no one joins
+      you get the coins but everyone, you included, draws a <bec>Curse
+      Card</bec>
+
+      | <be>Portal</be></be>
+    bottomType: none
+    title: Soviet Slaughter
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "2"
+    order: 2
+    description: Win a game of <be>2v1</be> at a <be>normal</be> difficulty | <be>Clear</be>
+    title: God in the machine
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095239/Yuris%20War%20Room.png
+fileName: Yuris War Room

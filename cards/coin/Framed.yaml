@@ -1,0 +1,22 @@
+name: Framed
+type: coin
+blocks:
+  - type: coin
+    id: framed
+    value: "12"
+    order: 0
+    description: Get a random movie from framed.wtf and try to guess it. You can
+      veto twice <be>but you must decide to do so at the first frame of the
+      movie
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: cda5b0e0-954b-4cb5-b23f-ddf7a21dfa34
+fileName: Framed

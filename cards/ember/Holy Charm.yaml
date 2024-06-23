@@ -1,0 +1,22 @@
+name: Holy Charm
+type: ember
+blocks:
+  - type: ember
+    id: holy
+    value: "0"
+    order: 0
+    description: Use this any time you draw a <bec>Curse Card</bec>. The curse is
+      countered and put into the discard pile. You do not need to draw another
+      <bec>Curse Card</bec>.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a287f266-3060-4d0b-978c-d0a95cd35107
+fileName: Holy Charm

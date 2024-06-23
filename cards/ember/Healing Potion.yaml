@@ -1,0 +1,23 @@
+name: Healing Potion
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: |-
+      <bf>
+      <be>Heal 1</be>
+      OR
+      <be>Heal 2</be> and draw <bec>2 Curse cards</bec> 
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c6e99d49-93ad-4793-83ad-069bb8bec256
+fileName: Healing Potion

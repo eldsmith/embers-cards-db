@@ -1,0 +1,24 @@
+name: Balance The Scales
+type: ember
+blocks:
+  - type: none
+    id: balance
+    value: "0"
+    order: 0
+    description: Any time you feel that a <be>challenge</be> or <beg>game card</beg>
+      was improperly balanced you may play this card. If <be>3 out of 4 players
+      agree</be> the challenge will either have <beb>1 dominion</beb> added to
+      the card value or removed, depending on whichever is necessary to properly
+      balance the scales.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: e54d730d-97e9-42eb-b731-4ce842d90f8b
+fileName: Balance The Scales

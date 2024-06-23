@@ -1,0 +1,50 @@
+name: Sly Cooper
+type: game
+blocks:
+  - type: coin
+    value: "8"
+    order: 0
+    description: Crack a new safe!
+    title: Safecracker!
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "2"
+    order: 1
+    description: Complete a Master Thief Sprint in any level where it is uncompleted
+    title: Master Thief Sprint
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "2"
+    order: 2
+    description: Have the most keys collected
+    title: Key Master
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "1"
+    order: 3
+    description: Defeat Raleigh
+    title: Mug a Frog
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: item
+    value: "1"
+    order: 4
+    description: Defeat Muggshot
+    title: Mug a Muggshot
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 47cf07c6-ad1c-4fa4-a445-f6f2a85f6113
+fileName: Sly Cooper

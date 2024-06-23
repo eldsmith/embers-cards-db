@@ -1,0 +1,24 @@
+name: Need 4 Speed
+type: curse
+blocks:
+  - type: curse
+    id: new
+    value: "0"
+    order: 0
+    description: |-
+      <bf>
+      Join and win a random game on typeracer.com. You get two tries.
+      </bf>
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 178c95f8-6180-4748-8a3d-10c2aad048ea
+fileName: Need 4 Speed

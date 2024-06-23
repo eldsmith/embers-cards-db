@@ -1,0 +1,25 @@
+name: Retro Hunt
+type: coin
+blocks:
+  - type: coin
+    id: retro
+    value: ""
+    order: 0
+    description: Roll a <be>d100</be>. On a sheet full of retro achievement
+      supported games find the game corresponding to the number you rolled.
+      <br><br>You must unlock at least <be>1 achievement</be>. For each
+      achievement you finish you gain <be>5 coins</be>. You may unlock up to a
+      maximum of <be>5 achievements</be> totaling <be>25 coins</be>.
+    title: ""
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 3dded251-95f7-4875-9c30-21f9965d2c76
+fileName: Retro Hunt

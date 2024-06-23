@@ -1,0 +1,20 @@
+name: Dantes Inferno
+type: coin
+blocks:
+  - type: coin
+    value: "9"
+    order: 0
+    description: Roll a random custom level from <beg>Fall Guys</beg>.<br><br>Finish
+      the level
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 606beeb3-4edd-48a8-8bb2-bd55c4966983
+fileName: Dantes Inferno

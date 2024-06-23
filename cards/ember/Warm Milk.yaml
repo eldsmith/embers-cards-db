@@ -1,0 +1,19 @@
+id: 7df43697-a4e9-4284-b8d7-f30932dc589c
+name: Warm Milk
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <bf>Drink the warm milk<br>Heal 1 and draw <bec>1 Curse Card</bec>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095326/Warm%20Milk.png
+fileName: Warm Milk

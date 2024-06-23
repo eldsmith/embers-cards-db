@@ -1,0 +1,23 @@
+id: a558b316-b540-4d32-8322-9928c21a225c
+name: Fools Milk
+type: curse
+blocks:
+  - type: none
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: <bf>You meet a kind old man who offers you a nice refreshing glass
+      of warm milk. You drink it, only to find out that it has been spiked with
+      Turtle Juice! <br><br>You died. Be more careful around strangers next
+      time...
+    title: ""
+image:
+  height: "80"
+  backgroundSize: custom
+  backgroundWidth: "140"
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: "25"
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094776/Fools%20Milk.png
+fileName: Fools Milk

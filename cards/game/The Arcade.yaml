@@ -1,0 +1,54 @@
+name: The Arcade
+type: game
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <cap>All games here are rolled from a <be>Game Challenge</be> sheet.
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: a3
+    value: "3"
+    order: 1
+    description: Roll a <beb>3 point value</beb> challenge.
+    title: Old Cabinet
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: a2
+    value: "2"
+    order: 2
+    description: Roll a <beb>2 point value</beb> challenge.
+    title: Whack A Mole
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: a1
+    value: "1"
+    order: 3
+    description: Roll a <beb>1 point value</beb> challenge.
+    title: Claw Machine
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: king
+    value: "2"
+    order: 4
+    description: Roll a <beb>2 point value</beb> king challenge.
+    title: Arcade King
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 534e21ab-3fc3-4404-bf02-f57d671b02d2
+fileName: The Arcade

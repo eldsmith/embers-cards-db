@@ -1,0 +1,62 @@
+name: Final Fantasy VII
+type: game
+blocks:
+  - type: coin
+    id: "16"
+    value: "16"
+    order: 0
+    description: "Get Cloud to level 16. "
+    title: Sweet Sixteen
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: 3rd
+    value: "3"
+    order: 1
+    description: Finish up to the <beb>Train Graveyard</beb> in IronCloud mode.
+    title: 3rd Class SOLDIER
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: 1st
+    value: "5"
+    order: 2
+    description: Finish all of <beb>Midgar</beb> in IronCloud mode
+    title: 1st Class SOLDIER
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: midgar
+    value: "1"
+    order: 3
+    description: "Beat one of these bosses in IronCloud: <beb>Bottomswell</beb>,
+      <beb>Jenova Birth</beb>, <beb>Reno & Rude</beb>."
+    title: The Grind
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: item
+    value: ""
+    order: 4
+    description: "Reach Kalm <br><be>Effect:</be> Gain <bee>The Masamune</bee> "
+    title: I hate them all!
+    showIcon: all
+    showFull: "false"
+  - type: none
+    id: new
+    value: "0"
+    order: 5
+    description: "<cap><sf>IronCloud: If Cloud is in your party he is the only one
+      allowed to be alive during battles.</sf>"
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: bdbe8142-3577-4431-a86c-2a766c2f5623
+fileName: Final Fantasy VII

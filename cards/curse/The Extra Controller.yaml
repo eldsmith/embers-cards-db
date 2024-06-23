@@ -1,0 +1,22 @@
+name: The Extra Controller
+type: curse
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <bf>You must now exclusively use the shitty extra controller in the
+      last controller based game you played. If another player draws this card
+      the controller passes on to him.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 0b1a4e2c-b940-4e83-a277-7902dc6b7ee5
+fileName: The Extra Controller

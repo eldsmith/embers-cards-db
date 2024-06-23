@@ -1,0 +1,38 @@
+name: Two Towers
+type: ember
+blocks:
+  - type: tower
+    value: "0"
+    order: 0
+    description: >-
+      <be>When played</be>: Place two counters on the board representing each
+      tower, this card is effectively in play in both locations.<br><br>
+
+
+      Any player may travel between these two areas as if they are next to one
+      another, in addition they are adjacent.
+
+      <br><br>
+
+      The owner may <be>ruin</be> both towers whenever he wants by saying what
+      the group decides should be the magic phrase.
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    value: "0"
+    order: 1
+    description: You can still travel between the two areas, they are still
+      adjacent, but you must draw a <bec>Curse Card</bec> instead of paying the
+      normal travel cost.
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 336e740b-017c-4fff-9c64-a4799e7a4874
+fileName: Two Towers

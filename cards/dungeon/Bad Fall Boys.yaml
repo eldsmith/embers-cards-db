@@ -1,0 +1,21 @@
+name: Bad Fall Boys
+type: dungeon
+blocks:
+  - type: challenge
+    value: "1"
+    order: 0
+    description: Roll a random custom level from <beg>Fall Guys</beg>.<br><br>Finish
+      the level | <be>Portal</be>
+    title: Dante's Inferno
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 6f8fef74-756a-4675-8d32-6a7e1438feda
+fileName: Bad Fall Boys

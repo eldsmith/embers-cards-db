@@ -1,0 +1,28 @@
+id: c7cba07b-2b52-43a9-8e9b-920dd3eed418
+name: Winner Card I
+type: special
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap>Granted at the end of a <be>Splash</be> to <be>The Winner of
+      that season</be> | You own this card, you may play this card during any
+      time during any splash, you may only play <be>1 winner card</be> per
+      season
+    showIcon: none
+    showFull: "true"
+  - type: ember
+    value: "0"
+    order: 1
+    description: Draw <bee>2 Ember Cards</bee> and gain <be>20 coins</be> OR <be>Heal 2</be>
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: Winner Card I

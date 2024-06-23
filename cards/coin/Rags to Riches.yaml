@@ -1,0 +1,21 @@
+name: Rags to Riches
+type: coin
+blocks:
+  - type: coin
+    id: new
+    value: "5"
+    order: 0
+    description: <bf>Trade <bec>3 Curse Cards</bec> for <be>5 coins</be>. If you are
+      unable or refuse to trade in you are effectively vetoing this card.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 3f4446b0-3529-483b-ac2d-b49e0257b7e5
+fileName: Rags to Riches

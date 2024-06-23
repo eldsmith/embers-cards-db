@@ -1,0 +1,21 @@
+name: Get in the game
+type: ember
+blocks:
+  - type: ember
+    id: new
+    value: "0"
+    order: 0
+    description: When someone plays a <beg>game card</beg> you may play this card to
+      immediately teleport to his location.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 92cbe0c2-5d23-4a0c-a143-8a257addeeb5
+fileName: Get in the game

@@ -1,0 +1,50 @@
+name: Noita
+type: game
+blocks:
+  - type: challenge
+    id: mine
+    value: "1"
+    order: 0
+    description: "Finish one of the following: <beb>Mines</beb>, <beb>Coal
+      Pits</beb>, <beb>Snowy Depths</beb>."
+    title: They call it... a Mine!
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: depth
+    value: "3"
+    order: 1
+    description: Whoever has the greatest depth. Minimum starting depth is <be>300</be>.
+    title: We must go deeper
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "2"
+    order: 2
+    description: Reach the <beb>Underground Jungle</beb>.
+    title: Spelunking Wiz Kid
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: Dungeon Wand
+    value: "0"
+    order: 3
+    description: |-
+      Get 100 kills in a single run.
+      <br><br>
+      <be>Effect:</be> Put <bee>The Dungeon Wand</bee> into your hand.
+    title: Dungeon Wand
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 01804abd-8ddf-4275-a26b-2c056b421034
+fileName: Noita

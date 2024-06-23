@@ -1,0 +1,47 @@
+name: Enter The Gungeon
+type: game
+blocks:
+  - type: king
+    id: speed boss
+    value: "2"
+    order: 0
+    description: Best time to defeating the first boss.
+    title: Speed Boss
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "1"
+    order: 1
+    description: Beat a new floor without taking damage in the boss fight.
+    bottomType: repeat
+    title: Untouchable
+    bottomText: ""
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: third
+    value: "2"
+    order: 2
+    description: Beat the third floor.
+    title: Halfway Home
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: money
+    value: "20"
+    order: 3
+    description: Spend at least <be>100 casings</be> in the shop
+    title: Money Bags
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: f8a12d9e-3f22-4467-9711-5b2c92076a2c
+fileName: Enter The Gungeon

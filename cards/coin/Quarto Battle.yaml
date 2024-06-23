@@ -1,0 +1,23 @@
+name: Quarto Battle
+type: coin
+blocks:
+  - type: coin
+    id: ""
+    value: ""
+    order: 0
+    description: Play Quatro with other players. The player who wins gains <be>5
+      coins</be>. You may play up to <be>5 games</be> or until all the other
+      players insult you by calling you a <be>wiener wiener with a smelly
+      steamer</be>.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 5a531060-b3ca-417d-97d2-5a8a370382cb
+fileName: Quarto Battle

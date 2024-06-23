@@ -1,0 +1,57 @@
+name: Tower of Desolation
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap>Whoever has most corruption is the controller of this tower.
+    showIcon: none
+    showFull: "true"
+  - type: tower
+    value: "0"
+    order: 1
+    description: >-
+      <be>20 Coins</be>: Controller may move <be>1 corruption</be> from any
+      other area to this area
+
+      <br><br>
+
+      If this area ever has more than <be>10 corruption</be>: This tower is
+      <be>ruined</be>
+
+      <br><br>
+
+      <be>Ruin:</be> The controller of this tower <be>heals 1</be>
+    title: Tower of Desolation
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    value: "0"
+    order: 2
+    description: >+
+      <be>Enter (Finish an escape room in <beg>Escape Simulator</beg>):</be>
+      Roll a <be>d4</be> and gain one of  the effects below:
+
+      <br>
+
+      <be>1:</be> <bec>Curse Card</bec>
+
+      <br><be>2:</be> <bee>Ember Card</bee>
+
+      <br><be>3:</be> <be>30 coins</be>
+
+      <br><be>4:</be> <be>Heal 1</be>
+
+    title: Ruined Tower
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ae59f319-060e-42d4-8abe-4915ca91790a
+fileName: Tower of Desolation

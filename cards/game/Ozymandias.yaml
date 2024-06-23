@@ -1,0 +1,53 @@
+name: Ozymandias
+type: game
+blocks:
+  - type: challenge
+    id: medium
+    value: "1"
+    order: 0
+    description: Win a game at medium difficulty
+    title: Up and Comer
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: hard
+    value: "2"
+    order: 1
+    description: Win a game at hard difficulty
+    title: Not bad Kid
+    showIcon: all
+    showFull: "false"
+  - type: ember
+    id: new
+    value: ""
+    order: 2
+    description: >-
+      <be>You may challenge in the same area or adjacent</be>. They may refuse
+      but must roll 3 or higher on a d6. If they roll 2 or lower they must draw
+      1 <bec>Curse Card</bec><br>
+
+
+      <be>Effect</be>: Winner takes 7 coins from the loser and gains <beb>1
+      dominion point</beb> in the area. This challenge may be repeated 3 times
+      for dominion, after that it is only for coins.
+    title: I am Ozymandias
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "2"
+    order: 3
+    description: Have the most wins in <be>I am Ozymandias</be>
+    title: King of Kings
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c46d67d6-2332-4a12-9f6e-6e928419086a
+fileName: Ozymandias

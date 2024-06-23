@@ -1,0 +1,67 @@
+name: Ocarina Rando
+type: game
+blocks:
+  - type: none
+    id: info
+    value: "0"
+    order: 0
+    description: Played on same seed. Triforce Hunt. <br><be>When played:</be> Roll
+      a random major item from the game. This item has now become <beb>The
+      Sacred Artifact</beb>.
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: new
+    value: "1"
+    order: 1
+    description: Finish any <beb>dungeon</beb>. ( Max <beb>5 points</beb> )
+    title: Finish a Dungeon
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "2"
+    order: 2
+    description: Find <beb>The Sacred Artifact</beb>
+    title: A Sacred Artifact
+    bottomType: none
+    bottomText: ""
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: new
+    value: "1"
+    order: 3
+    description: Find a <beb>Triforce Piece</beb>.
+    bottomType: repeat
+    title: Gold from the Gods
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "3"
+    order: 4
+    description: Find all required <beb>Triforce Pieces</beb>
+    title: Triforce Master
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: new
+    value: "0"
+    order: 5
+    description: Find <beb>Biggoron Sword</beb>.<br><be> Effect:</be> Put
+      <bee>Biggoron Sword</bee> into your hand
+    title: Biggoron Sword
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: f2001bae-7ceb-4cf6-a979-a2eec950d73d
+fileName: Ocarina Rando

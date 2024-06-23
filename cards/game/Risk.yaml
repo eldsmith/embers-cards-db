@@ -1,0 +1,70 @@
+name: Risk
+type: game
+blocks:
+  - type: none
+    id: info
+    value: "0"
+    order: 0
+    description: <cap>Every map played must be decided by a dice roll</cap>
+    bottomType: none
+    showFull: "true"
+    showIcon: none
+  - type: challenge
+    id: classic
+    value: "1"
+    order: 1
+    description: Win an online classic match
+    bottomText: ""
+    title: Not much of a risk
+    bottomType: none
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: zz
+    value: "2"
+    order: 2
+    description: Eradicate all the zombies
+    bottomText: ""
+    title: World War Z
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: r
+    value: "3"
+    order: 3
+    description: Win 3 matches in a row
+    bottomType: none
+    title: Risk it All
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: z
+    value: "2"
+    order: 4
+    description: Have the most zombie wins.
+    bottomText: ""
+    title: Zombie King
+    showIcon: all
+    showFull: "false"
+  - type: ember
+    id: kings
+    value: "0"
+    order: 5
+    description: You may bet <be>10 coins</be> on an online match, if you win
+      <be>double</be> it. Other players in this area or adjacent may join you,
+      in which case winner takes the prize pot.
+    bottomText: ""
+    title: The Game of Kings
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ad756c67-c012-4818-9f40-c3a3f369e8b1
+fileName: Risk

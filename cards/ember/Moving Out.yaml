@@ -1,0 +1,21 @@
+id: e84a1742-56bc-4f6b-b810-f1a7559b5ce9
+name: Moving Out
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: |-
+      <cap>You must pay 70 coins to play this card</cap><br><br>
+      Move any <be>tower</be> to any other <be>area</be>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095292/Moving%20Out.png
+fileName: Moving Out

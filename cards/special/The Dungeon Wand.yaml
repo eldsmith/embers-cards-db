@@ -1,0 +1,23 @@
+id: 50ad7492-5f3f-4a04-9793-a170b62cb37f
+name: The Dungeon Wand
+type: special
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: Roll <be>6 dungeons</be>. Select three of those and place them all
+      in one area, these form a new dungeon slot in that area, objectives on
+      every card must be met in order to add another room. In addition you may
+      order them however you want to trigger <be>chain effects</be>
+    showIcon: none
+    showFull: "true"
+image:
+  height: "50"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094128/The%20Dungeon%20Wand.png
+fileName: The Dungeon Wand

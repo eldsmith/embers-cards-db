@@ -1,0 +1,30 @@
+id: 794af148-10f8-4db4-bb4b-458c7b528e95
+name: Gundyrs Dungeon
+type: dungeon
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: ""
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: "1"
+    value: "3"
+    order: 1
+    description: On a fresh save, defeat Gundyr using no ways to deal damage other
+      than your fists | <be>Clear on reaching second phase
+    title: Fist Gundyr
+    bottomType: 3x
+    showIcon: all
+    showFull: "false"
+image:
+  height: "68"
+  backgroundSize: custom
+  backgroundWidth: "150"
+  backgroundHeight: ""
+  backgroundX: "80"
+  backgroundY: "0"
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095173/Gundyrs%20Dungeon.png
+fileName: Gundyrs Dungeon

@@ -1,0 +1,36 @@
+name: DEATH (NOT ACTIVE)
+type: info
+blocks:
+  - type: info
+    id: new
+    value: "0"
+    order: 0
+    description: >
+      A player who dies is removed from the board. He can no longer play until
+      he has been resurrected.<br><be>Resurrection:</be> Though you can no
+      longer play on the board you may still play in <be>Archipelago</be>, as
+      Archipelago represents the very edge of the dream world and death -- you
+      are stuck there until you find a <bee>Resurrection Stone</bee>.<br><br>
+
+
+      The second way to get a <bee>Resurrection Stone</bee> is by entering a
+      special dungeon called <beg>Waluigi's Tomb</beg>. Once someone dies for
+      the first time, reveal <beg>3 dungeons</beg>. Complete any one of these
+      dungeons to gain a <bee>Resurrection Stone</bee>. Once a dungeon is
+      completed replace it with a fresh dungeon.<br><br>
+
+
+      The final way to escape death is that of sacrifice. You must take <be>10
+      corruption</be> in an area decided by a roll of the die.
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 16d5ff30-6588-4932-84b4-ac1aff416367
+fileName: DEATH (NOT ACTIVE)

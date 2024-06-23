@@ -1,0 +1,31 @@
+id: 794af148-10f8-4db4-bb4b-458c7b528e00
+name: Devils Gambit
+type: dungeon
+blocks:
+  - type: coin
+    id: new
+    value: "20"
+    order: 0
+    description: >-
+      You may challenge a player in this area or an adjacent area to a <be>Curse
+      Off</be>. He may attempt to refuse but must make a <be>DC 10 save</be>;
+      one of you must move for a re-challenge. |
+
+      Draw <bec> 3 Curse Cards </bec> and lay them face up on the table. The
+      first person to complete all <bec>Curses</bec> wins the coins. The player
+      who loses must take <be>1 corruption</be> in any area for every
+      <bec>Curse</bec> he hasn't finished. This room is <be>cleared</be> after
+      <be>1 Curse Off</be> and <be>destroyed</be> after <be>3</be>.
+    title: Devils Gambit
+    bottomType: none
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719096680/Devils%20Gambit.png
+fileName: Devils Gambit

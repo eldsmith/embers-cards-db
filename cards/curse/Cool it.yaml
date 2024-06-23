@@ -1,0 +1,21 @@
+id: 94231d73-4b4d-4638-bf61-799f46d540d6
+name: Cool it
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Take a cold shower for <be>2d4 x 20 seconds.</be>
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: "66"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094760/Cool%20it.png
+fileName: Cool it

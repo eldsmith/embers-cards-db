@@ -1,0 +1,22 @@
+name: Footballer
+type: coin
+blocks:
+  - type: coin
+    id: e
+    value: "15"
+    order: 0
+    description: <bf>Create a ball combining at least 2 different materials. You
+      must be able to make a compelling argument that what you have made is in
+      fact a ball. Score into a makeshift goal at least 10 meters away.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 8577dacb-2008-4d0f-b37e-ea086609417c
+fileName: Footballer

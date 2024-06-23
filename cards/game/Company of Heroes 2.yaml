@@ -1,0 +1,63 @@
+name: Company of Heroes 2
+type: game
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: "<cap><be>Bonus: </be> You may attempt games at a higher difficulty
+      than the one on the card. For every level higher you will gain <beb>1
+      bonus point</beb>."
+    bottomType: none
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: 1v2
+    value: "3"
+    order: 1
+    description: Win a <be>1v2</be> game in <be>normal difficulty</be>
+    title: 1v2
+    bottomType: none
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: 11v1
+    value: "3"
+    order: 2
+    description: Win a <be>1v1</be> game in <be>hard difficulty</be>
+    title: 1v1
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: bridge
+    value: "25"
+    order: 3
+    description: Win a <be>1v1</be> game in <be>normal difficulty</be> without
+      blowing up any bridges.
+    title: Building Bridges
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: tiger
+    value: "0"
+    order: 4
+    description: >-
+      Kill or neutralize <beb>King Tiger</beb> in a normal difficulty game and
+      win the game.<br>
+
+
+      <be>Effect:</be> Put the <bee>King Tiger Tank</bee> into your hand.
+    title: Tiger King
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 8db7755b-dc2a-48f2-b62c-5092dcb03157
+fileName: Company of Heroes 2

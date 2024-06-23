@@ -1,0 +1,23 @@
+name: Cursed to Jump
+type: curse
+blocks:
+  - type: curse
+    id: jump
+    value: "0"
+    order: 0
+    description: Roll <be>2d8</be>, the number that comes up is the screen that you
+      must reach in <beg>Jump King</beg>. Every time you fall you must scream
+      the entire time as if you are falling.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 19949e05-53ec-4d06-9754-4448491eb083
+fileName: Cursed to Jump

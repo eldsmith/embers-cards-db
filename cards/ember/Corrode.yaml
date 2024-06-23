@@ -1,0 +1,22 @@
+name: Corrode
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: |-
+      Remove <be>1 toughness</be> from target equipment.<br><br>
+
+      <be>Corrupt 1:</be> Remove <be>3 toughness</be> instead
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: b6f51b11-2f9a-433e-aadc-64f472884bb6
+fileName: Corrode

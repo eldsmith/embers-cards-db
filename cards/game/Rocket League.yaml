@@ -1,0 +1,54 @@
+name: Rocket League
+type: game
+blocks:
+  - type: king
+    id: wins
+    value: "2"
+    order: 0
+    description: Have the most ranked wins.
+    title: Exterminator
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: ranked2
+    value: "2"
+    order: 1
+    description: Win 3 matches of ranked in a row. These wins must be done in the
+      same playlist.
+    title: Winning Streak
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: hattrick
+    value: "1"
+    order: 2
+    description: Score a hat trick in any playlist that is not 1v1.
+    title: Bunny Man
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: modes
+    value: "15"
+    order: 3
+    description: Win at least 1 game in 3 different playlists.
+    title: Rocket Spice
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: mvp
+    value: "10"
+    order: 4
+    description: Be the MVP in a match.
+    title: Most Valued Player
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 68038854-2c4f-4b25-8177-b71619642e90
+fileName: Rocket League

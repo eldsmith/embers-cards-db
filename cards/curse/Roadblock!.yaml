@@ -1,0 +1,22 @@
+name: Roadblock!
+type: curse
+blocks:
+  - type: none
+    id: block
+    value: "0"
+    order: 0
+    description: You have been <be>blocked</be> from the area you are currently in.
+      The block is removed after <be>1d4</be> hours.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: f1604180-ac44-43f4-bf7a-d55b674aface
+fileName: Roadblock!

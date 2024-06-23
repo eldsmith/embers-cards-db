@@ -1,0 +1,21 @@
+id: 808841e5-239e-4192-932d-52f5ab31e8b8
+name: Imprisoned
+type: curse
+blocks:
+  - type: curse
+    value: ""
+    order: 0
+    description: <bf>You have been trapped in a dungeon. <br><br>Roll a mystery game
+      from the mystery game sheet and escape within the time limit
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: "90"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094819/Imprisoned.png
+fileName: Imprisoned

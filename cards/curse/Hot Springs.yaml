@@ -1,0 +1,23 @@
+id: 68092db6-8594-4681-941e-ad2cac3ade32
+name: Hot Springs
+type: curse
+blocks:
+  - type: heart
+    id: hot
+    value: "0"
+    order: 0
+    description: <bf>You have found a sacred hot spring! Congratulations young
+      traveler, take a rest in the <be>hot spring</be> for <be>15 minutes</be>
+      and remove <be>1 corruption</be> from one area.
+    title: Blessed!
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094794/Hot%20Springs.png
+fileName: Hot Springs

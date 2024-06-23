@@ -1,0 +1,22 @@
+name: Upgrade
+type: ember
+blocks:
+  - type: ember
+    id: upgrade
+    value: "0"
+    order: 0
+    description: <bf>When you play this card, draw a card from the coin challenge
+      deck. In addition to the coin reward it will also give you <beb>1 Dominion
+      Point</beb> in the area you are in when you complete the challenge.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: e8e7d0a7-eb46-49ae-82ad-4166b1f393a9
+fileName: Upgrade

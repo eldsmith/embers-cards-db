@@ -1,0 +1,32 @@
+name: Tower of King Midas
+type: ember
+blocks:
+  - type: none
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: <cap><be>When Played:</be> Put <beb>The Hand of Midas</beb> into your hand.
+  - type: tower
+    id: midas
+    value: "0"
+    order: 1
+    description: >-
+      Every player has dominion in this tower, equal to the amount of <bec>Curse
+      Cards</bec> they have completed<br><br>
+
+      <be>Enter:</be> First time you enter the tower draw a <bec>Curse
+      Card</bec>. 
+    title: Tower of King Midas
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 0702b3a1-40c6-4b25-aebb-911b13688566
+fileName: Tower of King Midas

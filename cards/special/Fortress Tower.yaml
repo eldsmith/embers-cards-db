@@ -1,0 +1,42 @@
+name: Fortress Tower
+type: special
+blocks:
+  - type: tower
+    id: tower
+    value: "0"
+    order: 0
+    description: >-
+      <be>When Played: </be>Name an unplayed <beg>game card</beg>. If a player
+      has it he must give you that card, if not find it in the draw pile. Place
+      the card in the <bee>Fortress Tower</bee>.
+
+
+      <br>
+
+      <be>Enter:</be> Draw a <bec>Curse Card</bec>. Roll a d6, if the result is
+      5 or 6 take the <beg>game card</beg> out of the tower and <be>Ruin</be>
+      the tower.<br>
+
+      <be>Ruin:</be> Everyone in this area may draw an <bee>ember</bee> or a
+      <beg>game</beg> card.
+    title: Fortress Tower
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    id: ruined
+    value: "0"
+    order: 1
+    description: Whenever someone enters this area move <bec>The Sleepwalker</bec>.
+    title: Ruined Fortress
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c9ad1035-e214-4867-978f-628ccbfeacc4
+fileName: Fortress Tower

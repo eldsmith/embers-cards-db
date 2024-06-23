@@ -1,0 +1,46 @@
+name: CHALLENGES
+type: info
+blocks:
+  - type: king
+    id: wins
+    value: ""
+    order: 1
+    description: Always active. Whoever is currently winning has the points but
+      loses them as soon as someone beats them. Ex. highest score in a game.
+    title: KING
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: win6
+    value: ""
+    order: 0
+    description: These are one and done challenges for points.
+    title: CHALLENGE
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: new
+    value: ""
+    order: 2
+    description: Beat the challenge to earn coins.
+    title: COIN
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: new
+    value: ""
+    order: 3
+    description: Beat the challenge to earn some sort of effect that influences the game.
+    title: ITEM
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 735c7c79-c6c2-49a4-924f-69d95a46f38f
+fileName: CHALLENGES

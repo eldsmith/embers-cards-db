@@ -1,0 +1,37 @@
+name: Magic Arena
+type: game
+blocks:
+  - type: challenge
+    id: mill
+    value: "2"
+    order: 0
+    description: Lose a match by finishing all the cards in your deck.
+    title: Milling About
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: wizard
+    value: "2"
+    order: 1
+    description: Have the most ranked wins.
+    title: King of the Nerds
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: multicolor
+    value: "1"
+    order: 2
+    description: Create a deck with every color and win a match with it.
+    title: Color Blind
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a1db0a4f-121d-4b80-bdbb-ecfb1ff50a7a
+fileName: Magic Arena

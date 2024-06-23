@@ -1,0 +1,43 @@
+name: Dancer's Tower
+type: special
+blocks:
+  - type: tower
+    id: dancertower
+    value: "0"
+    order: 0
+    description: >
+      <bee>Dancer's Tower</bee> <be>blocks</be> this area.<br><br>
+
+
+      <be>Enter (<beg>DS3</beg>):</be> Played on a special Dancer seed where you
+      can quickly face Dancer. This tower is <be>ruined</be> when another player
+      has killed <beb>Dancer of the Boreal Valley</beb>
+
+      <br><br>
+
+
+      <be>Ruin: </be>Every player who has not defeated <beb>Dancer of the Boreal
+      Valley</beb> draw 1 <bec>Curse Card</bec>.
+    title: Dancer's Tower
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    id: fallendancer
+    value: "0"
+    order: 1
+    description: <be>Ongoing:</be> If you enter this area and have not defeated
+      <beb>Dancer of the Boreal Valley</beb> you must draw 1 <bec>Curse
+      Card</bec>
+    title: Ruined Dancer's Tower
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: d2461184-4b14-4d3b-aaac-cbeae8a81bc1
+fileName: Dancer's Tower

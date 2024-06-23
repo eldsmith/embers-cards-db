@@ -1,0 +1,38 @@
+id: d1caad7f-dafa-42f7-bcca-550e9c3624f0
+name: Vampire Den
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><beg>Vampire Survivors</beg> | Fresh save
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    value: "2"
+    order: 1
+    description: |
+      Finish all <be>30 minutes</be> of a level
+    bottomType: 2x
+    title: 30 Minutes in the Ring
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "1"
+    order: 2
+    description: |
+      Have the most unlocks
+      <br><br><be>Clear: </be> Unlock 20
+      <br><be>Level up: </be> Unlock 50
+    title: Taste For Blood
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095229/Vampire%20Den.png
+fileName: Vampire Den

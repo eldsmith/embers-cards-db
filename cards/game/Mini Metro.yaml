@@ -1,0 +1,61 @@
+name: Mini Metro
+type: game
+blocks:
+  - type: none
+    id: s
+    value: "0"
+    order: 0
+    description: <cap>Randomly pick 3 cities in the game to be Sim City I,II and III.
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: "1000"
+    value: "3"
+    order: 1
+    description: Score more than <be>1000 points</be> in <be>3 cities</be>
+    title: It's over 1000
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: city1
+    value: "1"
+    order: 2
+    description: Highest score in <be>Sim City I</be>
+    title: Sim City I
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: city2
+    value: "1"
+    order: 3
+    description: Highest score in <be>Sim City II</be>
+    title: Sim City II
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: city3
+    value: "2"
+    order: 4
+    description: Highest score in <be>Sim City III</be>
+    title: Sim City III
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: train
+    value: "0"
+    order: 5
+    description: Have a train with 6 carriages.<br><be>Effect:</be> Put the
+      <bee>Mini Train</bee> into your hand.
+    title: All Aboard
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c9b2a9ad-2ea1-47d1-8a39-afde4439b7bf
+fileName: Mini Metro

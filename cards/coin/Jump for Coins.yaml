@@ -1,0 +1,21 @@
+name: Jump for Coins
+type: coin
+blocks:
+  - type: coin
+    id: jump
+    value: X
+    order: 0
+    description: Roll <be>3d4</be>, the number that comes up is the screen you must
+      reach in <beg>Jump King</beg>. Gain 2 coins for every floor.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 3bec44cf-869e-4fa8-a20a-2af70c32d009
+fileName: Jump for Coins

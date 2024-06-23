@@ -1,0 +1,55 @@
+name: Dwarf Fortress
+type: game
+blocks:
+  - type: challenge
+    id: redemption
+    value: "3"
+    order: 0
+    description: Reclaim a lost fortress, 100 dwarven population
+    title: Dwarven Redemption
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: goblin
+    value: "3"
+    order: 1
+    description: Survive the goblin invasion
+    title: Goblin Invasion
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: beast
+    value: "3"
+    order: 2
+    description: Survive the forgotten beast visit
+    title: Forgotten Beast
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: tower
+    value: "0"
+    order: 3
+    description: |-
+      Build a tower<br>
+      <be>Effect: </be>Put <bee>Fortress Tower</bee> into play
+    title: Tower of the Dwarves
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: floor
+    value: "15"
+    order: 4
+    description: Make a book
+    title: Best Seller
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 1ad9e3ac-c068-45e2-927e-d34a2a8dbc85
+fileName: Dwarf Fortress

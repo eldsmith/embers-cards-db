@@ -1,0 +1,20 @@
+id: 33ee8ac3-2761-4388-8f9c-361708b56c6a
+name: Another Lap
+type: coin
+blocks:
+  - type: coin
+    value: X
+    order: 0
+    description: For every <be>5</be> laps you go around the cabin you gain <be>1
+      coin</be> to a maximum of <be>10 coins</be>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: Another Lap

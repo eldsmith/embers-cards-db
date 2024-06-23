@@ -1,0 +1,35 @@
+id: 187bea15-627c-4446-a6b3-361c170e9fa3
+name: The Masamune
+type: special
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: |-
+      <cap><sf><be>Legendary Equipment</be> |
+      <be>Toughness: </be>5 | <be>Unbreakable</be>
+    showIcon: none
+    showFull: "true"
+  - type: none
+    id: new
+    value: "0"
+    order: 1
+    description: >-
+      <be>Purge 1: </be> Draw <bee>1 Ember Card</bee> and lose <be>1
+      toughness</be>. This ability may only be triggered <be>once per
+      area</be>.<br><br>
+
+
+      <be>Heal 2: </be><bee>The Masamune</bee> <be>shatters</be>
+    showIcon: none
+    showFull: "true"
+image:
+  height: "50"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095380/The%20Masamune.png
+fileName: The Masamune

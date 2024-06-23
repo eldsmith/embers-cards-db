@@ -1,0 +1,19 @@
+name: I Could Walk 500 Meters
+type: coin
+blocks:
+  - type: coin
+    value: "20"
+    order: 0
+    description: <bf>Get to <be>500 meters</be> in <beg>Noita</beg>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ab1db169-ec1f-4ddb-9b8c-92c99976b65c
+fileName: I Could Walk 500 Meters

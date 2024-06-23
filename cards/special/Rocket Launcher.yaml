@@ -1,0 +1,47 @@
+name: Rocket Launcher
+type: special
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: "<cap><be>Legendary Equipment</be>, <be>Unbreakable</be> | Each
+      ability costs <be>1 ammo</be> | <be>Starting ammo:</be> 3 "
+    showIcon: none
+    showFull: "true"
+  - type: ember
+    value: "0"
+    order: 1
+    description: >-
+      <be>Pogo: </be> You may jump out of this area into any other area on the
+      map. Doing this interrupts other actions that might affect you.
+
+
+      <br><br>
+
+      <be>Shoot:</be> Shoot any player in this or an adjacent area. <be>DC 12
+      Saving throw failure</be>: they must either draw a <bec>Curse Card</bec>
+      or lie on the floor pretending to be dead for <be>1d4 x 5 minutes.</be>
+      They will not have a timer and must make a guess when the time is up If
+      the time is not up they take <be>1 corruption</be>.
+
+      <br><br>
+
+
+      <be>Reload: </be> You may add <be>3 ammo</be> by drawing <bec>3 Curse
+      cards</bec>. If the ammo is ever 0, <bee>Rocket Launcher</bee> is
+      <be>destroyed</be> 
+
+
+      <br><br>
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c58a904d-75e7-4fcd-bbf8-fecf6e7db17f
+fileName: Rocket Launcher

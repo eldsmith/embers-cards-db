@@ -1,0 +1,34 @@
+name: Mountain Climb
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><beg>Celeste</beg> | First two chapters only
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    value: "2"
+    order: 1
+    description: Gather <be>24</be> total <beb>Strawberries</beb> | <be>Clear</be>
+    title: Strawberry Fields
+    bottomType: none
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "1"
+    order: 2
+    description: Have the fastest time in the <be>first chapter</be>
+    title: Speed Climber
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a1340f2c-ce6b-43dd-adcc-6a4f1ec4901d
+fileName: Mountain Climb

@@ -1,0 +1,20 @@
+name: Steal
+type: ember
+blocks:
+  - type: ember
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Steal 1 card of your choice from a player of your choice.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 9d6b8b09-467a-48a1-8194-32d509b31098
+fileName: Steal

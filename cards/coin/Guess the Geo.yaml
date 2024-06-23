@@ -1,0 +1,21 @@
+name: Guess the Geo
+type: coin
+blocks:
+  - type: coin
+    value: "12"
+    order: 0
+    description: Get within <be>500 km</be> of the guess on a version of geoguessr.
+      Bonus <be>2 coins</be> for every <be>100 additional km</be> closer. You
+      get 1 veto.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 4618db60-d090-4c05-86f8-8818a3657e0e
+fileName: Guess the Geo

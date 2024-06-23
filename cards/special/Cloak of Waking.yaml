@@ -1,0 +1,27 @@
+name: Cloak of Waking
+type: special
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><be>Toughness:</be> 3
+    showIcon: none
+    showFull: "true"
+  - type: equip
+    value: "0"
+    order: 1
+    description: You are protected from all effects of <bec>The Sleepwalker</bec>.
+      Every time you are protected however, this equipment <be>loses 1
+      toughness</be>
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: c8fc9e9b-dd27-4df2-9735-8ad42c162e68
+fileName: Cloak of Waking

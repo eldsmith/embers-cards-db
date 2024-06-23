@@ -1,0 +1,23 @@
+name: Rival Douchebag
+type: ember
+blocks:
+  - type: ember
+    id: reload
+    value: "0"
+    order: 0
+    description: <bf>Play this on a <beg>Game card</beg> that is in play.
+      <br><br>All challenges on that card can now be completed by one more
+      player.
+    title: ""
+    showFull: "true"
+    showIcon: none
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: be83b089-6043-4a00-9726-a6d0fcc288aa
+fileName: Rival Douchebag

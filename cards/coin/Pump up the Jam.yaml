@@ -1,0 +1,21 @@
+name: Pump up the Jam
+type: coin
+blocks:
+  - type: coin
+    value: "10"
+    order: 0
+    description: "Win a game of <beg>Hyper Jam</beg>, any player may join and steal
+      the prize. You may play up to <be>2 games</be> "
+    title: ""
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: b1bbb803-e98d-4e37-b703-6d1bd3ac5f30
+fileName: Pump up the Jam

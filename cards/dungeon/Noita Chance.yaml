@@ -1,0 +1,20 @@
+name: Noita Chance
+type: dungeon
+blocks:
+  - type: challenge
+    value: "4"
+    order: 0
+    description: Get to <be>1000 meters</be> in <beg>Noita</beg>
+    title: Deeper
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: eb6fd8c5-5a94-4bfc-b053-b027233a2e01
+fileName: Noita Chance

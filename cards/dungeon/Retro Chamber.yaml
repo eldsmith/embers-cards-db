@@ -1,0 +1,29 @@
+name: Retro Chamber
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap>Roll for a retro game, the group may veto the game once on a 75% vote.
+    showIcon: none
+    showFull: "true"
+  - type: king
+    value: "1"
+    order: 1
+    description: |-
+      Whoever has the most <be>retro achievements</be> in the game.<br><br>
+      <be>Level up: </be> 10 achievements<br>
+      <be>Level up: </be> 20 achievements
+    title: Achivement Unlocked
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: aaf78f7d-d465-468f-83ba-83511f22f9b0
+fileName: Retro Chamber

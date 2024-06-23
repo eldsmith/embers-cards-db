@@ -1,0 +1,35 @@
+name: DUNGEONS AND GAMES
+type: info
+blocks:
+  - type: info
+    value: "0"
+    order: 0
+    description: Each area will have 1 or more <beg>Game Slots</beg>. These can only
+      be filled with a single <beg>Game Card</beg>
+    title: Game Slots
+    showIcon: all
+    showFull: "false"
+  - type: info
+    value: ""
+    order: 1
+    description: >-
+      Some areas will have <ber>dungeon slots</ber>, in these slots you can add
+      a <ber>dungeon room</ber>. As soon as the <be>room clear</be> condition on
+      the card is met another <ber>dungeon room</ber> may be added.<br><br>
+
+      In addition these rooms some times have <be>chain effects</be>, where a
+      special effect takes place if the next room or previous room meets a
+      specific condition 
+    title: Dungeon Slots
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 4685bfd8-e1fd-403b-b741-27a7ec9a702a
+fileName: DUNGEONS AND GAMES

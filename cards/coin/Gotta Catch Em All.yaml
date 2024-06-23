@@ -1,0 +1,22 @@
+name: Gotta Catch Em All
+type: coin
+blocks:
+  - type: coin
+    value: X
+    order: 0
+    description: Start a <be>Gen 1</be> game of <beg>Pokemon</beg>, get <be>1
+      coin</be> for every pokemon you add to the Pokedex. You will not receive
+      the coins until you say <i><be>"Pretty sure I got em all"</be></i> at
+      which point the challenge ends.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 3d9603b8-fae9-411c-9713-52edd6b98c03
+fileName: Gotta Catch Em All

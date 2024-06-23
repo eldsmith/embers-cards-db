@@ -1,0 +1,56 @@
+name: Monster Train
+type: game
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <cap>This game must be played on a fresh save.
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: boss
+    value: "2"
+    order: 1
+    description: Get to <beb>The Final Boss</beb> and win.
+    title: Final Boss
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: easy
+    value: "1"
+    order: 2
+    description: Beat the game at covenant rank <be>1</be>, <be>2</be>, or <be>3</be>
+    bottomType: repeat
+    title: Still Too Easy
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: flame
+    value: "3"
+    order: 3
+    description: "Beat the game with the following mutators: <beb>Final Shard</beb>
+      and <beb>Sacrificial</beb>"
+    title: Soft Flames
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: king
+    value: "2"
+    order: 4
+    description: Whoever has the highest score.
+    bottomText: ""
+    title: Monster King
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a16cba7f-8f62-4c3c-a457-56a1ca9a04e3
+fileName: Monster Train

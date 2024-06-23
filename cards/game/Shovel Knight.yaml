@@ -1,0 +1,57 @@
+name: Shovel Knight
+type: game
+blocks:
+  - type: challenge
+    id: half
+    value: "3"
+    order: 0
+    description: Defeat <be>4</be> of the <beb>Order of No Quarter</beb>.
+    title: Halfway
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: alive
+    value: "1"
+    order: 1
+    description: Finish an entire stage without dying.
+    title: I'm Alive!
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: master
+    value: "1"
+    order: 2
+    description: |-
+      Finish the most levels without dying.<br>
+      <be>Level up:</be> Finish <be>3 levels</be> without dying.
+    title: Level Master
+    bottomType: none
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: spender
+    value: "15"
+    order: 3
+    description: Spend a combined 25000 gold at the shop.
+    title: Big Spender
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: boss
+    value: "5"
+    order: 4
+    description: Beat a new boss.
+    bottomType: repeat
+    title: Bossalot
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 6d2ed678-3f03-4ed1-934a-fde68f35241f
+fileName: Shovel Knight

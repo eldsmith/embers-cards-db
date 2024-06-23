@@ -1,0 +1,51 @@
+name: TOWERS
+type: info
+blocks:
+  - type: tower
+    id: tower
+    value: "0"
+    order: 0
+    description: >-
+      <sf> <be>Towers</be> are placed on locations to add a permanent effect to
+      that location. <be>The owner</be> of a tower is usually the one who played
+      it.
+
+      <br><br>
+
+
+      <be>Enter (<beg>Game</beg>):</be> If you are in the same location as a
+      tower you can enter it. When you enter a tower you usually are placed in a
+      <beg>game</beg>. There are special rules to playing that <beg>game</beg>
+      that may grant you benefits OR may <be>ruin</be> the tower
+
+      <br><br>
+
+
+
+      <be>Ruin:</be> When a tower is ruined any effects listed here will
+      activate. The tower will no longer exist but it may be replaced by a
+      ruined version of that tower.
+
+      </sf>
+    title: Tower
+    showIcon: all
+    showFull: "false"
+  - type: ruined_tower
+    id: ruined
+    value: "0"
+    order: 1
+    description: <sf>A <be>tower</be> may have a ruined version that has some new
+      effects on the location.</sf>
+    title: Ruined Tower
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 0b997f53-cfa8-4b66-85e8-9b5a77ab1a27
+fileName: TOWERS

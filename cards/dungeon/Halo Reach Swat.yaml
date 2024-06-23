@@ -1,0 +1,43 @@
+id: 973d8349-0f3e-4bf6-8ef9-87d66d7b7a21
+name: Halo Reach Swat
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: "<cap><be>Chain <beb>Non fps game</beb></be>: All challenges can be
+      completed one more time<br>"
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    value: "1"
+    order: 1
+    description: >-
+      Challenge other players to a game of <beb>SWAT</beb>, 
+
+      BO3
+
+      | <be>Portal</be></be> <sf>(When this challenge is started, every player
+      on the map can teleport to this area)</sf> | <be>Cleared</be>
+    bottomText: ""
+    title: SWAT Your Friends
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "1"
+    order: 2
+    description: |-
+      Go on a <beb>Killing Spree</beb> in a game of <beb>SWAT</beb>
+      <br>
+    title: SWAT Yourself
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095188/Halo%20Reach%20Swat.png
+fileName: Halo Reach Swat

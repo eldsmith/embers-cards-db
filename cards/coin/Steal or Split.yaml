@@ -1,0 +1,26 @@
+name: Steal or Split
+type: coin
+blocks:
+  - type: coin
+    value: "20"
+    order: 0
+    description: >-
+      Randomly determine another player. Each of you, individually, must decide
+      to either <be>split</be> or <be>steal</be> the coins. <br><br>If both
+      players choose split, you split the coins in half between the two of you.
+
+      If one player chooses steal, he takes the entire pool of coins. If both
+      players choose steal, no one gets any coins and you both draw a <bec>Curse
+      Card</bec>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: bce2c9df-89fe-4909-b294-4d56193e3784
+fileName: Steal or Split

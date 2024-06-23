@@ -1,0 +1,22 @@
+id: 8e67471b-34a1-4506-8fa1-8c40b6d3daf0
+name: Turtle Juice
+type: ember
+blocks:
+  - type: ember
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: |-
+      <bf>You die<br><br>
+
+      In addition, deepen your <bec>Curse Level</bec>
+image:
+  height: "80"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095318/Turtle%20Juice.png
+fileName: Turtle Juice

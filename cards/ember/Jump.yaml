@@ -1,0 +1,20 @@
+name: Jump
+type: ember
+blocks:
+  - type: none
+    id: jump
+    value: "0"
+    order: 0
+    description: <bf>You may teleport to any area
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 4eec16aa-20e8-4b4d-8738-b53b86c8ccb0
+fileName: Jump

@@ -1,0 +1,58 @@
+name: Pokemon Rando
+type: game
+blocks:
+  - type: challenge
+    id: ironmon
+    value: "1"
+    order: 0
+    description: Get a new badge using *Ironmon rules.<br><br>If you ever break
+      Ironmon rules you can no longer gain points from this challenge on that
+      save.
+    bottomType: repeat
+    title: Ironmon Maniac
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: baddass
+    value: "2"
+    order: 1
+    description: Have the most badges. (Minimum two badges).
+    title: Badgeass
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: catchem
+    value: "1"
+    order: 2
+    description: "Have the most pokemon in your pokedex. <br><be>Bonus: </be> This
+      challenge has <beb>1 extra dominion point</beb> for every 50 pokemon in
+      your dex."
+    title: Gotta Catch'em All
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: shopaholic
+    value: "15"
+    order: 3
+    description: Buy 100 Great Balls.
+    title: Shopaholic
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: none
+    id: new
+    value: "0"
+    order: 4
+    description: <cap><sf>*Custom splash Ironmon rules</sf
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 089c44fc-ec0c-44d0-9d1c-7554731938e2
+fileName: Pokemon Rando

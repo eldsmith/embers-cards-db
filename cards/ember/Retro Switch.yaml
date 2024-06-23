@@ -1,0 +1,21 @@
+name: Retro Switch
+type: ember
+blocks:
+  - type: ember
+    id: dice
+    value: "0"
+    order: 0
+    description: In the middle of a <beb>Retro Hunt</beb> you may switch games by
+      casting another <be>d100</be>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 4a928f3e-27a4-43a4-b1f5-0f2a44758f97
+fileName: Retro Switch

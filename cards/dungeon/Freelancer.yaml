@@ -1,0 +1,22 @@
+name: Freelancer
+type: dungeon
+blocks:
+  - type: challenge
+    value: "2"
+    order: 0
+    description: Win the first showdown in the <be>Freelancer mode</be> in
+      <beg>Hitman World of Assassination</beg>
+    bottomType: 2x
+    title: Showdown
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ff476b87-ef31-4d69-913f-a694c114c115
+fileName: Freelancer

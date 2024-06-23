@@ -1,0 +1,20 @@
+id: a7bf3007-640d-465d-a575-20906d56eeb8
+name: Birthday Cake
+type: ember
+blocks:
+  - type: ember
+    showIcon: none
+    showFull: "true"
+    value: "0"
+    order: 0
+    description: <bf>Reactivate any completed coin challenge and reduce your
+      <bec>Curse Level</bec> by one
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095248/Birthday%20Cake.png
+fileName: Birthday Cake

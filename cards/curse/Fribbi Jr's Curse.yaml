@@ -1,0 +1,41 @@
+name: Fribbi Jr's Curse
+type: curse
+blocks:
+  - type: curse
+    id: new
+    value: "0"
+    order: 0
+    description: >-
+      You must finish the first <be>3 levels</be> of the original <be>Super
+      Mario Bros</be> with only one life. If you die, you must restart from
+      <be>level 1</be>.
+
+
+      <br><br>
+
+      <be>Upgrade:</be> Finish the entire first world without dying, draw <bee>1
+      Ember Cards</bee>
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+  - type: none
+    id: new
+    value: "0"
+    order: 1
+    description: <cap><be>*Upgrade:</be> If you upgrade a curse you will gain a
+      bonus. However you must decide when drawing the curse if you want to
+      upgrade it, <be>and once you upgrade it you have to finish the upgraded
+      curse.
+    bottomType: none
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 96758684-5852-42ba-b3e5-aa4b48fb5679
+fileName: Fribbi Jr's Curse

@@ -1,0 +1,23 @@
+name: Move Sheep
+type: ember
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: Select an area, You may move as many players from that area as you
+      want. You may move them up to <be>1d4</be> areas, you may move them
+      individually to different areas. If they are in a vehicle of any kind they
+      automatically exit the vehicle first.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 7c5580b3-1356-487a-bc0c-be946df9e065
+fileName: Move Sheep

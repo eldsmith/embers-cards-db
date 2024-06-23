@@ -1,0 +1,37 @@
+id: 9369aeeb-333f-4ccb-b7e4-d4dea9895bb1
+name: Hardcore Diablo
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><beg>Diablo 2 Resurrected</beg> on <be>Hardcore</be> | Roll
+      for class played by everyone
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    value: "1"
+    order: 1
+    description: Defeat <beb>Blood Raven</beb> | <be>Clear</be>
+    bottomType: 2x
+    title: Blood Raven
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "3"
+    order: 2
+    description: Defeat <beb>Andariel</beb> | <be>Bonus:</be> Draw <bee>3 Ember
+      Cards</bee> and select one to put in your hand, the rest are shuffled back
+      in
+    title: Andariel
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095200/Hardcore%20Diablo.png
+fileName: Hardcore Diablo

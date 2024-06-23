@@ -1,0 +1,51 @@
+id: 4eb209a4-46d0-4f41-9039-bca31bc50919
+name: Halo Reach Firefight
+type: dungeon
+blocks:
+  - type: challenge
+    value: "0"
+    order: 0
+    description: >-
+      Play a game of <beb>Classic Firefight</beb> on <beb>Normal</beb>. You must
+      play this with another player. There is prize that you claim after each
+      round. At the end of the game you come to an agreement on how to share the
+      pool of prizes you have claimed, you may also agree to discard prizes.
+      Once a prize has been claimed it cannot be reclaimed.<br><br>
+
+
+      <be>Round 1</be>: 10 coins<br>
+
+      <be>Round 2</be>: 30 coins<br>
+
+      <be>Round 3</be>: 3 <bee>Ember Cards</bee><br>
+
+      <be>Round 4</be>: 1 <beb>Dominion Point</beb><br>
+
+      <be>Round 5</be>: 2 <beb>Dominion Points</beb><br>
+
+
+      <br><br>
+
+      <be>Clear:</be> Round 1 Complete
+    title: Friendly Firefight
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "2"
+    order: 1
+    description: |-
+      <be>LOCKED, Unlock: Chain <ber>Halo Reach</ber></be><br><br>
+      Highest score in <beb>Single Player Firefight</beb> on <beb>Normal</beb>
+    bottomType: lock
+    title: Chief Firefighter
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: Halo Reach Firefight

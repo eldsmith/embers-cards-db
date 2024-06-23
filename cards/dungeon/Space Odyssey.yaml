@@ -1,0 +1,29 @@
+name: Space Odyssey
+type: dungeon
+blocks:
+  - type: challenge
+    value: "1"
+    order: 0
+    description: >-
+      Get furthest in <be>Hard</be> on <be>Enhanced</be> in
+      <beg>FTL</beg><br><br>
+
+
+      <be>Level Up, Clear:</be> Reach Sector 3
+
+      <br><be>Level Up:</be> Reach Sector 6
+
+      <br><be>Level Up:</be> Reach <beb>The Rebel Flagship</beb>
+    title: Into the Void
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: edcbb9a5-7ee5-4f60-b973-bbe8f7540cb0
+fileName: Space Odyssey

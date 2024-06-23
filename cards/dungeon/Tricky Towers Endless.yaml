@@ -1,0 +1,42 @@
+name: Tricky Towers Endless
+type: dungeon
+blocks:
+  - type: king
+    value: "1"
+    order: 0
+    description: |-
+      Finish with the highest score in <beb>Endless Survival</beb>
+
+      <br><br>
+      <be>Level up 1:</be> Finish with over 20<br>
+      <be>Level up 1:</be> Finish with over 50<br><br>
+
+      <be>Clear:</be> Score 25
+    title: Tower King
+    showIcon: all
+    showFull: "false"
+  - type: item
+    value: "0"
+    order: 1
+    description: >-
+      <cap>This challenge is locked, unlock it by chaining <beg>Tricky
+      Towers</beg></cap>
+
+      <br><br
+
+      Finish <beb>Endless Race</beb> with a score of <be>200</be><br>
+
+      <be>Item: </be> <bee>Tricky Tower</bee>
+    bottomType: lock
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: a8a65f15-b994-4185-a81b-817f052f7247
+fileName: Tricky Towers Endless

@@ -1,0 +1,26 @@
+name: Broken Anvil
+type: ember
+blocks:
+  - type: ember
+    value: "0"
+    order: 0
+    description: >-
+      Play this on <be>any players equipment</be><br><br>
+
+
+      Roll a <be>d20</be><br>if it is <be>11 or higher</be>: Gain <be>3
+      toughness</be>
+
+      <br>if it is <be>10 or lower</be>: Lose <be>3 toughness</be>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: e254459d-e818-4281-be88-1688e16e6014
+fileName: Broken Anvil

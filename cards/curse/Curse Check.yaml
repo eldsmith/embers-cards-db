@@ -1,0 +1,20 @@
+name: Curse Check
+type: curse
+blocks:
+  - type: curse
+    value: "0"
+    order: 0
+    description: <bf>Advance the <beg>Curse Game</beg> to the next checkpoint.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: af691a3f-c416-4fb5-90b9-8d2ac36a8ead
+fileName: Curse Check

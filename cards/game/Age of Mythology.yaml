@@ -1,0 +1,60 @@
+id: 6b66a220-60d8-4c5c-ac94-6cd83b24d012
+name: Age of Mythology
+type: game
+blocks:
+  - type: none
+    id: info
+    value: "0"
+    order: 0
+    description: "<cap><be>Bonus: </be> You may increase the difficulty of each
+      challenge to receive <beb>1 bonus point</beb>."
+    title: ""
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: 1v2
+    value: "3"
+    order: 1
+    description: Win a <be>1v2</be> game on <be>normal difficulty</be>
+    title: 1v2
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: 1v1
+    value: "3"
+    order: 2
+    description: Win a <be>1v1</be> game on <be>hard difficulty</be>
+    title: 1v1
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: titan
+    value: "3"
+    order: 3
+    description: Slay a Titan.
+    title: Titan Slayer
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: coin
+    value: "15"
+    order: 4
+    description: >-
+      This challenge may be completed <be>3 times</be> by any players.<br><br>
+
+      Win a <be>1v1</be> game. Extra <be>5 coins</be> per difficulty above
+      normal.
+    bottomType: none
+    title: To the Victor
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: Age of Mythology

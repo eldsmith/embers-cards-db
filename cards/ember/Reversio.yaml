@@ -1,0 +1,21 @@
+name: Reversio
+type: ember
+blocks:
+  - type: ember
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>You may switch <beg>two games</beg> you have played in
+      different <be>areas</be> with each other.
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 92e470c5-1947-4592-9c4d-5b5798108434
+fileName: Reversio

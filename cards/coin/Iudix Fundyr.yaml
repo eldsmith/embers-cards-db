@@ -1,0 +1,20 @@
+name: Iudix Fundyr
+type: coin
+blocks:
+  - type: coin
+    id: fundyr
+    value: "15"
+    order: 0
+    description: <bf>Start a new DS3 save. Kill Iudix Gundyr without using Estus.
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 7653f87a-0df8-4217-b365-6b64d07af4f0
+fileName: Iudix Fundyr

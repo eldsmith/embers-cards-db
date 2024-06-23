@@ -1,0 +1,26 @@
+id: 8fab7663-be7b-4056-b6ed-271200f90a94
+name: The Reflective Pool
+type: curse
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: >-
+      Go over to a neighbouring cabin with people in a hot tub and ask them if
+      you may join them in the tub. At no point may you reveal that this is part
+      of a game.
+
+
+      <br><br>If you do manage to join them: <be>heal 3</be>
+    title: BLURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094854/The%20Reflective%20Pool.png
+fileName: The Reflective Pool

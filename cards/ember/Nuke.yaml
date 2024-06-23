@@ -1,0 +1,33 @@
+id: 076cc808-3e26-4144-bb15-d9e8ed09dff2
+name: Nuke
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: >-
+      Everyone in this area and adjacent areas, including yourself,
+      <be>dies</be>. This area becomes <be>radioactive</be>. <br><br>Add <be>20
+      radioactivity</be> tokens to the area. Whenever any player <be>enters or
+      exits the area</be>: roll <be>1d4</be>, remove that amount of tokens and
+      then apply the effect listed below. Once all tokens are removed, this area
+      is no longer radioactive.<br>
+
+      <br><cap>1: Nothing happens |
+
+      2: Draw a <bec>Curse Card</bec> <br>| 
+
+      3: Take <be>1 Corruption</be> |
+
+      4: Take <be>1 Corruption</be> and the <be>radioactivity spreads</be>
+    showFull: "true"
+    showIcon: none
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719095301/Nuke.png
+fileName: Nuke

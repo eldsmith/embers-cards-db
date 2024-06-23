@@ -1,0 +1,36 @@
+id: 20accf13-3deb-4a01-a0f8-f336329bfb07
+name: Leprosy
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: >-
+      Oh no! You have leprosy! Every time you move between areas you must pay an
+      extra <be>1d4</be> coins.<br><br>
+
+
+      <be>Cure:</be> Every time you move you may roll <be>1d20</be> if you get a
+      <be>20</be> you no longer have leprosy.
+
+
+      <br>
+
+
+      <be>Infect: </be>If you enter the same area as another player you may
+      attempt to infect the player. To infect, you both roll <be>1d20</be>, if
+      you get a higher roll you are cured and your opponent is now infected with
+      leprosy.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: custom
+  backgroundWidth: "130"
+  backgroundHeight: ""
+  backgroundX: "30"
+  backgroundY: "40"
+  url: "1"
+fileName: Leprosy

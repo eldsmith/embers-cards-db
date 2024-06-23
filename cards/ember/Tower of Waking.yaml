@@ -1,0 +1,24 @@
+name: Tower of Waking
+type: ember
+blocks:
+  - type: tower
+    value: "0"
+    order: 0
+    description: >-
+      <bec>The Sleepwalker</bec> can never enter the same area as <bee>The Tower
+      of Waking</bee><br><br>
+
+
+      <be>When played:</be> Add <bee>The Cloak of Waking</bee> to your hand
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 51e7efe7-bf2c-4e28-af9a-2b1f78946565
+fileName: Tower of Waking

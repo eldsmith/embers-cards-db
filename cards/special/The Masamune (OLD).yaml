@@ -1,0 +1,35 @@
+name: The Masamune (OLD)
+type: special
+blocks:
+  - type: ember
+    id: masamune
+    value: "0"
+    order: 0
+    description: >-
+      <bee>The Masamune</bee> is an <be>equipment</be>. A player may only have
+      one piece of equipment at a time.<br><br>
+
+
+      You may <be>kill</be> a player in the same area causing <bee>The
+      Masamune</bee> to shatter and you take <be>1 corruption</be> in the area
+      for your sins.
+    showIcon: all
+    showFull: "false"
+  - type: none
+    id: info
+    value: "0"
+    order: 1
+    description: <be>Death:</be> If a player <be>dies</be> or is <be>killed</be> he
+      is removed from the board until he is <be>resurrected</be>.<br><br>
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ad504a34-1dc4-400c-9aaa-0ea35b088e6b
+fileName: The Masamune (OLD)

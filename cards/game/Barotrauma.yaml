@@ -1,0 +1,58 @@
+name: Barotrauma
+type: game
+blocks:
+  - type: none
+    id: rules
+    value: "2"
+    order: 0
+    description: <cap>Play with Jovian radioation | Can only save at the start of a
+      new biome.
+    title: ""
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: act1
+    value: "2"
+    order: 1
+    description: Finish a new <beb>Biome</beb>.
+    title: Biome Dome
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: king
+    id: gold
+    value: "2"
+    order: 2
+    description: Have the most money.
+    title: Sunken Treasure
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: pirate
+    value: "10"
+    order: 3
+    description: Find and steal treasure from another submarine.
+    title: Pirate's Life
+    showIcon: all
+    showFull: "false"
+  - type: item
+    id: submarine
+    value: ""
+    order: 4
+    description: |-
+      Light 4 <beb>beacon stations</beb>.<br><br>
+
+      <be>Effect:</be> Play the <bee>Dream Submarine</bee> card immediately.
+    title: Fine Submariner
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 421bb92f-e473-4324-9fc2-fdf8c48c0091
+fileName: Barotrauma

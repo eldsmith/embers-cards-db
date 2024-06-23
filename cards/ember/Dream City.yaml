@@ -1,0 +1,22 @@
+name: Dream City
+type: ember
+blocks:
+  - type: ember
+    id: new
+    value: "0"
+    order: 0
+    description: Add a game slot for the area that you are currently in and draw
+      <beg>2 Game Cards</beg>. Select which of those games will occupy the new
+      slot.
+    showFull: "true"
+    showIcon: none
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 134ddb1b-7f3d-4de4-bce5-dcdb43c76859
+fileName: Dream City

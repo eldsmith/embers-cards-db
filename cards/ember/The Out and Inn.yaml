@@ -1,0 +1,33 @@
+name: The Out and Inn
+type: ember
+blocks:
+  - type: tower
+    value: "0"
+    order: 0
+    description: >-
+      <be>When played:</be> Flip over <beg>3 Game Cards</beg> and choose which
+      game to put in <bee>The Out and Inn</bee>. This game now counts as part of
+      the area where this tower is currently in.<br><br> <be>Move:</be> This
+      tower moves to any area on  the map whenever <bec>The Sleepwalker</bec> is
+      moved, all players who want to control where <bee>The Out and Inn</bee>
+      goes will play <be>Rock, Paper, Scissors</be> to decide where it moves. If
+      all players do the same sign in the first round; <bee>The Out and
+      Inn</bee> is transported <be>outside of time and space</be> and can only
+      be attempted to return the next time <bec>The Sleepwalker</bec> moves 
+
+
+      <br><br>If <bee>The Out and Inn</bee> is outside of time and space when
+      the game ends, next <be>Splash</be> it comes back into the game
+      <be>exactly as it was</be>, as if it has traveled forward in time
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 5f4c3078-412c-4c43-957a-61f5a53e015a
+fileName: The Out and Inn

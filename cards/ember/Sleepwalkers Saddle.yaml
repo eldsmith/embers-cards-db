@@ -1,0 +1,33 @@
+name: Sleepwalkers Saddle
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><be>Equipment</be> | Must be equipped in same area as <bec>The
+      Sleepwalker</bec>
+    showIcon: none
+    showFull: "true"
+  - type: equip
+    value: "0"
+    order: 1
+    description: >-
+      You are now using <bec>The Sleepwalker</bec> as a mount and the two of you
+      now move together, you are no longer cursed when he enters the same area
+      and <bec>The Sleepwalker</bec> can no longer be moved by any other
+      influence. <br><br>
+
+
+      Next time you draw a <bec>Curse Card</bec>: Destroy this equipment.
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 332010c8-c4a7-46b3-94a1-8b3137f391ab
+fileName: Sleepwalkers Saddle

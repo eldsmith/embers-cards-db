@@ -1,0 +1,51 @@
+name: Biggoron Sword
+type: special
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <be>Legendary Equipment, Starts at Level 2</be>
+    showIcon: none
+    showFull: "true"
+  - type: ember
+    id: ""
+    value: "0"
+    order: 1
+    description: >-
+      <be>Once per camp</be>:  Strike an opponent in this area or adjacent. He
+      must make a <be>DC 12 saving throw</be><br><br>
+
+
+      <be>On hit: </be> <bee>Biggoron sword</bee> deals damage according to it's
+      level, then it <be>levels up</be>, if the sword is <be>level 4</be> you
+      must <be>level down</be> instead.<br>
+
+      <be>On miss: </be><bee>Biggoron sword</bee> <be>levels down</be>. If it
+      reaches <be>level 0</be> it <be>shatters</be>
+
+      <br>
+
+
+      <be>Level 1:</be> You sharpen your blade and lose <be>1d6</be> coins<br>
+
+
+      <be>Level 2:</be> The opponent gives you <be>1d10</be> coins<br>
+
+      <be>Level 3:</be> Take a <be>random card</be> from the opponent and
+      <be>2d6</be> coins<br>
+
+      <be>Level 4:</be> The opponent takes <be>1 corruption</be> in his current
+      area
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: baaf0c1c-3d0f-4552-a7d9-d89c75f32892
+fileName: Biggoron Sword

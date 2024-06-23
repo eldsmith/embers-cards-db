@@ -1,0 +1,22 @@
+id: 233a7eda-4bcf-4fb8-b039-2015e29cdfd9
+name: Clicks to Hitler
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: Open up a random wikipedia article using its random article
+      feature. You must click your way to the wikipedia page for Adolf Hitler.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: "80"
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094751/Clicks%20to%20Hitler.png
+fileName: Clicks to Hitler

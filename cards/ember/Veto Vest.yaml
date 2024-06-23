@@ -1,0 +1,27 @@
+name: Veto Vest
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <cap><be>Equipment</be>, <be>Toughness:</be> 3
+    bottomType: none
+    showIcon: none
+    showFull: "true"
+  - type: equip
+    value: "0"
+    order: 1
+    description: Whenever you veto a <be>Coin Card</be>, you may lose <be>1
+      toughness</be> instead of drawing a <bec>Curse Card</bec>
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: e362de9e-4eb7-4cab-a5c6-bf43e12acaef
+fileName: Veto Vest

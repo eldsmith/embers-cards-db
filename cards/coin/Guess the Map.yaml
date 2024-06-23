@@ -1,0 +1,26 @@
+name: Guess the Map
+type: coin
+blocks:
+  - type: coin
+    value: "13"
+    order: 0
+    description: >-
+      Go to whatmapgame.com and generate a random map. You must guess the map
+      correctly. You may veto once, but only before making your first
+      guess.<br><br>
+
+
+      <be>Upgrade</be>: Guess three maps correctly without missing one, you get
+      two vetos before first guess. Gain 20 extra coins
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 1c88489f-b0c2-45dd-a26a-e36b64e19e0c
+fileName: Guess the Map

@@ -1,0 +1,51 @@
+name: Team Fortress 2
+type: game
+blocks:
+  - type: none
+    value: "25"
+    order: 0
+    description: <cap>Pogo is played on <beb>Rocket jump server 1</beb>
+    showIcon: none
+    showFull: "true"
+  - type: coin
+    value: "5"
+    order: 1
+    description: Complete the <beb>Rocket Jump Tutorial</beb>
+    title: Pogo Padawan
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    value: "1"
+    order: 2
+    description: Every 3 courses completed in <beb>Rocket Jump</beb>. (Max 4).
+    title: Rocket Jumper
+    bottomType: repeat
+    showIcon: all
+    showFull: "false"
+  - type: item
+    value: "2"
+    order: 3
+    description: |-
+      Complete all the <beb>easy courses</beb><br>
+      <be>Item:</be> <bee>Rocket Launcher</bee>
+    title: Rocket Master
+    showIcon: all
+    showFull: "false"
+  - type: king
+    value: "2"
+    order: 4
+    description: Most public team deathmatch wins
+    title: Public Deathking
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: d02c385e-d6a7-4bfd-9e83-39f1a548855c
+fileName: Team Fortress 2

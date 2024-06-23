@@ -1,0 +1,22 @@
+name: Amnesia
+type: curse
+blocks:
+  - type: none
+    id: new
+    value: "0"
+    order: 0
+    description: <bf>Discard all your <bee>Ember Cards</bee>. You may not play any
+      of the cards before discarding them.
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 6f1d9f46-5a6c-4440-8365-2e8e38502435
+fileName: Amnesia

@@ -1,0 +1,26 @@
+name: Reddit Troll
+type: coin
+blocks:
+  - type: coin
+    value: "20"
+    order: 0
+    description: >-
+      You and one other player must make a Reddit post on a random subreddit,
+      whoever gets the most upvotes in <be>2 hours, wins the coins</be>. If no
+      one agrees to the duel you automatically win the coins.<br><br>
+
+
+      Both players also get <be>1 coin</be> for every <be>20 upvotes</be> to a
+      maximum of <be>10 coins</be>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 1a149497-11a8-4688-aec9-45781b093b4e
+fileName: Reddit Troll

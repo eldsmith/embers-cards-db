@@ -1,0 +1,28 @@
+name: Naked Freelancer
+type: dungeon
+blocks:
+  - type: king
+    value: "1"
+    order: 0
+    description: >-
+      Whoever gets the furthest in the <be>freelancer mode</be> in <beg>Hitman
+      World of Assassination</beg>. You are however not allowed to use any guns
+      or bring any items with you on the missions.<br><br>
+
+
+      <be>Level up 2, Clear:</be> Win the first showdown
+
+      <br><be>Level up:</be> Every other showdown after the first
+    title: King of Assassins
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 784517f4-a3c8-4864-9370-3005d4a1597b
+fileName: Naked Freelancer

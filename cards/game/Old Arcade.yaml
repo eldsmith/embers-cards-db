@@ -1,0 +1,55 @@
+name: Old Arcade
+type: game
+blocks:
+  - type: none
+    id: info
+    value: "0"
+    order: 0
+    description: <cap>Roll 3 games from the <be>Retro Achievement</be> sheet and
+      assign them to the challenge slots below.
+    bottomType: none
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    id: "1"
+    value: "2"
+    order: 1
+    description: Finish <be>5 Achievements</be> in this game
+    title: Dig Dug
+    bottomType: 2x
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: "2"
+    value: "2"
+    order: 2
+    description: Finish <be>5 Achievements</be> in this game
+    title: Galaga
+    showIcon: all
+    showFull: "false"
+  - type: challenge
+    id: new
+    value: "3"
+    order: 3
+    description: Finish <be>10 Achievements</be> in this game
+    title: Polybius
+    showIcon: all
+    showFull: "false"
+  - type: coin
+    id: new
+    value: "30"
+    order: 4
+    description: Finish <be>5 Achievements</be> in this game
+    title: Pinball
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: ab178d1e-9ea0-4fe6-b7bf-faff18fa12e9
+fileName: Old Arcade

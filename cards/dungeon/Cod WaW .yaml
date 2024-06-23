@@ -1,0 +1,28 @@
+id: ec50a908-f93c-456b-aef0-9388a8e9e10d
+name: "Cod WaW "
+type: dungeon
+blocks:
+  - type: king
+    value: "2"
+    order: 0
+    description: >-
+      Furthest <beb>Wave</beb> reached in <beb>Zombies</beb>. You may only use
+      weapons from <beb>Mystery Boxes</beb><br><br>
+
+      <be>Level Up 1</be>: Reach <beb>Wave 12</beb> <sf>( Level up increases the
+      value of the challenge )</sf><br><br>
+
+
+      <be>Cleared</be> on <beb>Wave 14</beb>
+    title: Mystery Masochist
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+fileName: "Cod WaW "

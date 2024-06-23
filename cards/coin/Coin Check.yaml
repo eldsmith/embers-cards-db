@@ -1,0 +1,19 @@
+name: Coin Check
+type: coin
+blocks:
+  - type: coin
+    value: "15"
+    order: 0
+    description: <bf>Advance to the next checkpoint in the <beg>Coin Game</beg>
+    showIcon: all
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: dd0c2a48-0d29-4a3d-8b46-b2244bc26088
+fileName: Coin Check

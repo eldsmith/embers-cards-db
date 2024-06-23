@@ -1,0 +1,28 @@
+id: 03c8b69f-4a88-4755-92cc-44069cd0dd9d
+name: Cheep Cheep Cheep
+type: curse
+blocks:
+  - type: curse
+    id: hotwing
+    value: "0"
+    order: 0
+    description: >-
+      SENPAI! Eeek! A winged creature has crept into my delicates drawer
+      *glances at you through my fingers* You weren't suppose to see those
+      senpai... *shy moan*<br><br>
+
+
+      The creature is full of hot juice, please Senpai show me h-h-how strong
+      your body is by eating one of them!<br><br>(Eat 1 really hot wing)
+    title: CURSED!
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: http://res.cloudinary.com/dem2irpax/image/upload/v1719094743/Cheep%20Cheep%20Cheep.png
+fileName: Cheep Cheep Cheep

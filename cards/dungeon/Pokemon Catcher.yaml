@@ -1,0 +1,28 @@
+name: Pokemon Catcher
+type: dungeon
+blocks:
+  - type: king
+    value: "1"
+    order: 0
+    description: >-
+      In a fresh save of <beg>Pokemon Crystal</beg>, whoever has the most
+      pokemon in his pokedex.<br><br>
+
+      <be>Level up, Clear:</be> 30 in Pokedex<br>
+
+      <be>Level up:</be> 60 in Pokedex<br>
+
+      <be>Level up:</be> 100 in Pokedex<br>
+    title: Catch em all
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 12991370-3621-44de-8d08-582822e0ca52
+fileName: Pokemon Catcher

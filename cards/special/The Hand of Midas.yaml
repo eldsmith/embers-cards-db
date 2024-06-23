@@ -1,0 +1,29 @@
+name: The Hand of Midas
+type: special
+blocks:
+  - type: ember
+    id: hand
+    value: "0"
+    order: 0
+    description: >-
+      When you play this card you exchange every one of your  <bec>Curse
+      Cards</bec> into 2 coins. (example 12 <bec>Curse Cards</bec> would give
+      you 24 coins.)<br><br>
+
+
+      Upon doing so the <bec>Curse Cards</bec> are consumed and removed from the
+      game. They can no longer be used for anything including giving you points
+      for <bee>The Tower of King Midas</bee>.
+    title: ""
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 74f6afc0-4737-495c-bd0f-5188e70d01b5
+fileName: The Hand of Midas

@@ -1,0 +1,30 @@
+name: Silver and gold Hand
+type: dungeon
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: "<cap>Turn one <bee>ember card</bee> face up and one <bec>curse
+      card</bec> face up: The ember card is now <be>Mr. Gold</be> and the curse
+      card is <be>Mr. Silver</be>"
+    showIcon: none
+    showFull: "true"
+  - type: challenge
+    value: "2"
+    order: 1
+    description: Get the <be>Retro Achievement:</be> <beb>He's Such a Sexyman, Just
+      my Type! </beb> in the game <beg>God Hand</beg><br><br>The winner also
+      gets <be>Mr. Gold</be> and gets to decide who gets <be>Mr. Silver</be>
+    title: Silver and Gold Hand
+    showIcon: all
+    showFull: "false"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: 5a7a7197-0d0f-4e81-b36d-a0f161d5f90a
+fileName: Silver and gold Hand

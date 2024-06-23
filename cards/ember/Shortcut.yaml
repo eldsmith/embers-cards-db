@@ -1,0 +1,19 @@
+name: Shortcut
+type: ember
+blocks:
+  - type: none
+    value: "0"
+    order: 0
+    description: <bf>Add a room below the current uncleared room in a dungeon
+    showIcon: none
+    showFull: "true"
+image:
+  height: ""
+  backgroundSize: cover
+  backgroundWidth: ""
+  backgroundHeight: ""
+  backgroundX: ""
+  backgroundY: ""
+  url: ""
+id: e2c615c8-e1cc-450d-b688-3b321f9dcb88
+fileName: Shortcut
